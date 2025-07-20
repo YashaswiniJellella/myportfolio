@@ -60,13 +60,14 @@ transition: 0.3s;
 }
 .dfbg{
     background-color: rgb(20,20,20);
-  margin-top: 300px;
+  margin-top: 140px;
 }
 .item6 > img{
     margin-left: 200px;
-    width:330px;
-    height:500px;
+    width:300px;
+    height:430px;
     margin-right: 80px;
+    border-radius: 20px;
 }
 .grid-container2{
     display: grid;
@@ -127,7 +128,7 @@ font-weight: bold;
     grid-template-columns: auto auto auto;
     margin-top: 50px;
 }
-.item8 > div > img{
+.item8 > div >a >img{
 width:300px;
 height:400px;
 border-radius: 20px;
